@@ -1,0 +1,14 @@
+C:\Users\Senshe\Downloads\ConditionalStatements-main (1)\ConditionalStatements-main\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.exe
+C:\Users\Senshe\Downloads\ConditionalStatements-main (1)\ConditionalStatements-main\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.deps.json
+C:\Users\Senshe\Downloads\ConditionalStatements-main (1)\ConditionalStatements-main\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.runtimeconfig.json
+C:\Users\Senshe\Downloads\ConditionalStatements-main (1)\ConditionalStatements-main\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.dll
+C:\Users\Senshe\Downloads\ConditionalStatements-main (1)\ConditionalStatements-main\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.pdb
+C:\Users\Senshe\Downloads\ConditionalStatements-main (1)\ConditionalStatements-main\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senshe\Downloads\ConditionalStatements-main (1)\ConditionalStatements-main\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.AssemblyInfoInputs.cache
+C:\Users\Senshe\Downloads\ConditionalStatements-main (1)\ConditionalStatements-main\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.AssemblyInfo.cs
+C:\Users\Senshe\Downloads\ConditionalStatements-main (1)\ConditionalStatements-main\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\Senshe\Downloads\ConditionalStatements-main (1)\ConditionalStatements-main\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.dll
+C:\Users\Senshe\Downloads\ConditionalStatements-main (1)\ConditionalStatements-main\ConditionalStatements\obj\Debug\net6.0\refint\ConditionalStatements.dll
+C:\Users\Senshe\Downloads\ConditionalStatements-main (1)\ConditionalStatements-main\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.pdb
+C:\Users\Senshe\Downloads\ConditionalStatements-main (1)\ConditionalStatements-main\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.genruntimeconfig.cache
+C:\Users\Senshe\Downloads\ConditionalStatements-main (1)\ConditionalStatements-main\ConditionalStatements\obj\Debug\net6.0\ref\ConditionalStatements.dll
